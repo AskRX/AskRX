@@ -1,16 +1,31 @@
-## Hi there 👋
+# AskRX
 
-<!--
-**AskRX/AskRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-Powered Prior Authorization Platform**
 
-Here are some ideas to get you started:
+AskRX streamlines the prior authorization process using AI to reduce delays, cut administrative burden, and accelerate patient access to medications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Live Demo
+
+👉 [https://danieljcuesta007.github.io/AskRX/](https://danieljcuesta007.github.io/AskRX/)
+
+## Features
+
+- **AI-Driven Approval Engine** — Instant eligibility checks and formulary matching
+- **Real-Time Status Tracking** — Live dashboard for all authorization requests
+- **Smart Document Analysis** — Automated extraction from clinical notes and lab results
+- **Payer Integration** — Direct submission to insurance carriers
+- **Compliance Built-In** — HIPAA-compliant, audit-ready workflows
+
+## Tech Stack
+
+- HTML5 / CSS3 / JavaScript
+- Responsive single-page application
+- No backend dependencies for demo
+
+## Team
+
+OMA Team 2 Capstone Project
+
+---
+
+© 2026 AskRX. All rights reserved.
